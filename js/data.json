@@ -1,0 +1,20 @@
+[
+    {
+        "image" : "img/avo-toast.png",
+        "title" : "Toast with Avocado and Egg",
+        "description" : "Crispy toasted wheat bread topped with mashed avocado and boiled eggs or scrambled.",
+        "href" : "r-avo.html"
+    },
+    {
+        "image" : "img/cookie.png",
+        "title" : "Choco Cookie Baked Oatmeal",
+        "description" : "Dessert with low calories and lots of fiber. made with oatmeal and chocolate.",
+        "href" : "r-cookie.html"
+    },
+    {
+        "image" : "img/spinach-stuffed-chicken.jpeg",
+        "title" : "Spinach Stuffed Chicken ",
+        "description" : "Chicken breast, spinach and olive oil marianted with herbs for a fresh and healthy taste.",
+        "href" : "r-chicken.html"
+    }
+]
